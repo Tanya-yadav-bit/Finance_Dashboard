@@ -7,8 +7,7 @@ This project focuses on clean UI design, structured component architecture, and 
 
 ## 🚀 Live Demo
 
-🔗 Deployed Link: *[Add your Vercel/Netlify link here]*
-
+🔗 Deployed Link: https://finadash.netlify.app/
 📂 GitHub Repository: https://github.com/Tanya-yadav-bit/Finance_Dashboard
 
 ---
